@@ -2,4 +2,4 @@
 
 # Screenshoot Halaman
 
-![alt text](anime.webp)
+![alt text](<WhatsApp Image 2026-07-17 at 17.48.15.jpeg>)
